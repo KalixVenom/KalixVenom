@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=61afef&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=for-the-badge&logo=github&color=21262d&labelColor=161b22" alt="GitHub Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KalixVenom&color=61afef&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/KalixVenom"><img src="https://img.shields.io/github/followers/KalixVenomE?style=for-the-badge&logo=github&color=21262d&labelColor=161b22" alt="GitHub Followers" /></a>
 </p>
 
 ---
