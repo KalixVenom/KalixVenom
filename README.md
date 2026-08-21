@@ -17,6 +17,3 @@ user:
   core_stack: [Python, FastAPI, PyTorch, PostgreSQL, n8n]
   focus: Deep Learning, Computer Vision, MLOps, & System Architecture
   status: 🚀 Building scalable recommendation engines & automated workflows
-
-
-https://raw.githubusercontent.com/KalixVenom/KalixVenom/output/github-contribution-grid-snake.svg
