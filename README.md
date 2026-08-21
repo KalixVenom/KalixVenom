@@ -1,46 +1,19 @@
-# Hi there, I'm KalixVenom 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Junior+Data+Scientist+%26+AI+Developer;Machine+Learning+%26+Automation+Pipelines;FastAPI+%2B+PostgreSQL+%2B+PyTorch;Building+Intelligent+Backend+Systems" alt="Typing SVG" />
+</p>
 
-### 🚀 Junior Data Scientist & AI/Automation Developer
-Building scalable machine learning models, intelligent backend APIs, and automated workflows.
-
-- 🔭 **Currently building:** Recommendation systems & automated AI workflow pipelines.
-- 🌱 **Focus areas:** Deep Learning, NLP, Computer Vision, & MLOps.
-- 💬 **Ask me about:** Python, FastAPI, PostgreSQL, ML models, & Linux administration.
-- ⚡ **Fun fact:** I enjoy optimizing everything from neural networks to PC hardware configurations.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Languages & Frameworks:**
-`Python` `C/C++` `FastAPI` `PostgreSQL` `PyTorch` `Scikit-Learn`
-
-**Data Science & Automation:**
-`Pandas` `NumPy` `Tableau` `n8n` `Docker` `Linux` `Git`
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Restaurant Recommendation Engine](#)** | Hybrid recommendation system using collaborative filtering & vector search | Python, FastAPI, Scikit-learn, PostgreSQL |
-| **[AI News & Automation Pipeline](#)** | Automated workflow syncing web scrapers, Google Sheets, & Gmail notifications | n8n, Python, GitHub Actions |
-| **[Manufacturing Analytics Dashboard](#)** | Interactive analytics dashboard isolating equipment anomalies across facilities | Tableau Public, SQL |
-
----
-
-### 📊 GitHub Overview
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalixVenom&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalixVenom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=61afef&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=for-the-badge&logo=github&color=21262d&labelColor=161b22" alt="GitHub Followers" /></a>
 </p>
 
 ---
 
-### 📫 Connect With Me
+### ⚡ About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+```yaml
+user:
+  role: Junior Data Scientist & AI/Automation Developer
+  core_stack: [Python, FastAPI, PyTorch, PostgreSQL, n8n]
+  focus: Deep Learning, Computer Vision, MLOps, & System Architecture
+  status: 🚀 Building scalable recommendation engines & automated workflows
