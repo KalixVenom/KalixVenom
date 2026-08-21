@@ -10,7 +10,7 @@
 # Hi there, I'm KalixVenom 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/main/persona_matrix.png" alt="Persona Skill Matrix Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="https://raw.githubusercontent.com/KalixVenom/KalixVenom/main/persona_matrix.png" alt="Persona Skill Matrix Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   <br>
   <img width="1024" height="273" alt="image" src="https://github.com/user-attachments/assets/c43ddfb4-c2a8-40ff-a066-9cd1704c4a5e" />
 
