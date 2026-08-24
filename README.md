@@ -24,6 +24,6 @@ Building scalable machine learning models, intelligent backend APIs, and automat
 ```yaml
 user:
   role: Junior Data Scientist & AI/Automation Developer
-  core_stack: [Python, FastAPI, PyTorch, PostgreSQL, Docker]
+  core_stack: [Python, RestAPI, PyTorch, SQL, Docker, OpenCV]
   focus: Deep Learning, Computer Vision, MLOps, & System Architecture
   status: 🚀 Building automated AI workflow pipelines & recommendation systems
