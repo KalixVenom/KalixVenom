@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/KalixVenom/KalixVenom/main/Gemini_Generated_Image_5jlqt65jlqt65jlq.jpg" alt="Persona Skill Matrix Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   <br>
-  **
+  
 
 </p>
 
